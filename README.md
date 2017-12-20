@@ -1,2 +1,2 @@
 # chip8
-A Chip8 interpreter written in Rust, using rustbox for input and graphics.
+A CHIP-8 interpreter written in Rust, using [rustbox](https://github.com/gchp/rustbox) for input and graphics.
